@@ -17,7 +17,7 @@
 * Auf der Karte befinden sich zwei Türme deren Spitze mit einem internen Treppenaufgang sowie mit zwei Leitern zu erreichen ist.
 sowie vier 15x15 große Häuschen mit verschlossenen Truhen mit zufällig ausgewürfelten Tränken (für die Rogues)
 > Truhen haben einen DC-15, um sie zu oeffnen.
-> Zum zerschlagen [Breaking and Entering](https://dungeons.fandom.com/wiki/SRD:Breaking_and_Entering)
+> Zum zerschlagen [Breaking and Entering](https://roll20.net/compendium/dnd5e/Objects#content)
 * Verstreut auf der Karte ist zudem Full und Half Cover
 * Auf der Karte befinden sich zufällig aktivierende Hazards in Form von: Zwei Kristallen, vier Stelen, vier magischen Feuern und vier magischen Fakeln, jeder Hazard ist eine Nummer (1-4) zugeteilt und der Referee würfelt zum Beginn jeder Runde welche Hazards aktiviert wird. 
 
